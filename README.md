@@ -20,6 +20,8 @@ Collaboration. Complex application
 * First create a sketch, then work on code `(1 pt)` _(commit sketches early)_
 
 ## Screenshot and sketch:
+* Sketch: https://github.com/corincic161/lab5-PPE/blob/master/sketch.jpg
+* Screen: https://github.com/corincic161/lab5-PPE/blob/master/31144179_1006710209477182_526716226332786688_n.png
 
 ## App Functionality:
 This is a game in which you control the paddle and you goal is to destroy all bricks. If you let the ball fall outside your paddle - you lose the game.
