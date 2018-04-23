@@ -27,8 +27,17 @@ Collaboration. Complex application
 This is a game in which you control the paddle and you goal is to destroy all bricks. If you let the ball fall outside your paddle - you lose the game.
 
 ## Tasks:
-My task was to draw the bricks and the ball. Also i had to write the code for wall,bricks and player collisions.
-Task of my colleague was to write a class for the player controlled paddle.
+### Gaidău Mihai Task:
+Tasks My task was to draw the bricks and the ball. Also i had to write the code for wall,bricks and player collisions.
+
+### Sclifos Corina Task: 
+At this laboratory work I have created schemes of levels and I also have created a class for the player controlled paddle.
+
+### Bacal Tatiana Task: 
+My task in this laboratory was to add more features at this game like changing colour of ball on collision and I wrote code how 2 hit bricks destroy (for thoose bricks which you have to hit 2 times) and etc.
+Sfârşitul conversaţiei
+Introdu un mesaj, @nume...
+
 
 ## Conclusion: 
 In this laboratory we learned how to work in a team and divide the tasks between members. 
