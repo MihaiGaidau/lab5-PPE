@@ -1,6 +1,10 @@
 <h1> PPE Laboratory Work 5 </h1>
 <h2>Title:</h2>
 Collaboration. Complex application
+### Our Team:
+- Gaidău Mihai
+- Sclifos Corina
+- Bacal Tatiana
 
 ## Contents
 * Collaboration
@@ -24,7 +28,11 @@ Collaboration. Complex application
 * Screen: https://github.com/corincic161/lab5-PPE/blob/master/31144179_1006710209477182_526716226332786688_n.png
 
 ## App Functionality:
-This is a game in which you control the paddle and you goal is to destroy all bricks. If you let the ball fall outside your paddle - you lose the game.
+The main idea of our game is typically "Arcanoid". This is a simple game where you have only a ball, a paddle and briks (which you have to destroy).
+* How to play:
+ Controls: Use left/right arrow buttons to control your paddle, to through your ball use space button.
+ Rules: Destroy all blocks and don’t forget to beat back your ball with paddle.
+ 
 
 ## Tasks:
 ### Gaidău Mihai Task:
